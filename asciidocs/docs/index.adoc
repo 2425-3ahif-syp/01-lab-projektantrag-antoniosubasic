@@ -6,3 +6,19 @@ ifndef::imagesdir[:imagesdir: images]
 === Projektbeschreibung
 
 Seit vielen Jahren werden Wahlen hauptsächlich in Papierform durchgeführt, was mit hohem Aufwand und möglichen Fehlern verbunden ist. Mein Ziel ist es, eine digitale Wahlprogramm-Plattform zu entwickeln, die den Wahlprozess vereinfacht, beschleunigt und gleichzeitig fehlerresistenter macht. Die Plattform soll den Schüler*innen eine unkomplizierte Möglichkeit bieten, ihre Stimme abzugeben. Neben der Stimmabgabe soll die Plattform auch weitere Funktionen, wie die Anzeige von Wahlresultaten (sowohl Klassenergebnisse als auch Gesamtergebnisse), zur Verfügung stellen.
+
+=== Projektziele
+
+- Entwicklung einer digitalen Wahlprogramm-Plattform
+- Vereinfachung des Wahlprozesses
+- Beschleunigung des Wahlprozesses
+- Erhöhung der Fehlerresistenz
+- Anzeige von Wahlresultaten
+
+=== Projektnutzen
+
+Die Plattform bietet eine digitale Lösung, die den Wahlprozess effizienter und fehlerresistenter macht. Die Schüler*innen können ihre Stimme einfach und unkompliziert abgeben und die Wahlresultate können schnell und übersichtlich angezeigt werden.
+
+=== Konsequenzen der Nichtdurführung
+
+Ohne die Entwicklung der digitalen Wahlprogramm-Plattform bleibt der Wahlprozess weiterhin aufwendig und fehleranfällig. Die Schüler*innen müssen weiterhin ihre Stimme auf Papier abgeben und die Wahlresultate müssen manuell ausgewertet werden.
