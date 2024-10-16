@@ -1,4 +1,2 @@
-= Index page
+= Projektantrag
 ifndef::imagesdir[:imagesdir: images]
-
-image::img.png[]
