@@ -2,11 +2,11 @@
 Antonio Subašić | {docdate}
 ifndef::imagesdir[:imagesdir: images]
 
-== Wahlprogramm Plattform
+== Digitale Wahlplattform
 
 === Projektbeschreibung
 
-Seit vielen Jahren werden Wahlen hauptsächlich in Papierform durchgeführt, was mit hohem Aufwand und möglichen Fehlern verbunden ist. Mein Ziel ist es, eine digitale Wahlprogramm-Plattform zu entwickeln, die den Wahlprozess vereinfacht, beschleunigt und gleichzeitig fehlerresistenter macht. Die Plattform soll den Schüler*innen eine unkomplizierte Möglichkeit bieten, ihre Stimme abzugeben. Neben der Stimmabgabe soll die Plattform auch weitere Funktionen, wie die Anzeige von Wahlresultaten (sowohl Klassenergebnisse als auch Gesamtergebnisse), zur Verfügung stellen.
+Seit vielen Jahren werden Wahlen hauptsächlich in Papierform durchgeführt, was mit hohem Aufwand und möglichen Fehlern verbunden ist. Mein Ziel ist es, eine digitale Wahlplattform zu entwickeln, die den Wahlprozess vereinfacht, beschleunigt und gleichzeitig fehlerresistenter macht. Die Plattform soll den Schüler*innen eine unkomplizierte Möglichkeit bieten, ihre Stimme abzugeben. Neben der Stimmabgabe soll die Plattform auch weitere Funktionen, wie die Anzeige von Wahlresultaten (sowohl Klassenergebnisse als auch Gesamtergebnisse), zur Verfügung stellen.
 
 === Projektziele
 
