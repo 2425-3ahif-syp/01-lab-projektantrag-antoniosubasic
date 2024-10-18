@@ -10,11 +10,11 @@ Seit vielen Jahren werden Wahlen hauptsächlich in Papierform durchgeführt, was
 
 === Projektziele
 
-- Entwicklung einer digitalen Wahlprogramm-Plattform
-- Vereinfachung des Wahlprozesses
-- Beschleunigung des Wahlprozesses
-- Erhöhung der Fehlerresistenz
-- Anzeige von Wahlresultaten
+- Entwicklung einer digitalen Plattform zur Durchführung von Wahlen
+- Vereinfachung und Automatisierung des Wahlprozesses
+- Beschleunigung der Stimmabgabe und Auswertung
+- Minimierung von Fehlern
+- Verminderung von Papierverbrauch
 
 === Projektnutzen
 
