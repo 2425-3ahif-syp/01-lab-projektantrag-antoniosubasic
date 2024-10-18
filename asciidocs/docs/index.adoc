@@ -18,7 +18,7 @@ Seit vielen Jahren werden Wahlen hauptsächlich in Papierform durchgeführt, was
 
 === Projektnutzen
 
-Die Plattform bietet eine digitale Lösung, die den Wahlprozess effizienter und fehlerresistenter macht. Die Schüler*innen können ihre Stimme einfach und unkompliziert abgeben und die Wahlresultate können schnell und übersichtlich angezeigt werden.
+Die Nutzung der Plattform bietet eine Vielzahl von Vorteilen. In erster Linie wird der Wahlprozess deutlich effizienter und fehlerresistenter macht. Schüler*innen können ihre Stimme einfach und unkompliziert abgeben und die Wahlresultate können schnell und übersichtlich angezeigt werden. Noch dazu wird der Papierverbrauch reduziert, was einen positiven Beitrag zum Umweltschutz leistet.
 
 === Konsequenzen der Nichtdurführung
 
