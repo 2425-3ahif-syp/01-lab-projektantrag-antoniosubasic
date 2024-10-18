@@ -22,4 +22,4 @@ Die Nutzung der Plattform bietet eine Vielzahl von Vorteilen. In erster Linie wi
 
 === Konsequenzen der Nichtdurführung
 
-Sollte die digitale Wahlplattform nicht entwickelt werden, bleibt der Wahlprozess weiterhin aufwendig und fehleranfällig. Die Schüler*innen sind gezwungen weiterhin ihre Stimme auf Papier abgeben, was sowohl umweltschädlich als auch zeitintensiv ist, da die Wahlresultate manuell ausgewertet werden müssen.
+Sollte die digitale Wahlplattform nicht entwickelt werden, bleibt der Wahlprozess aufwendig und fehleranfällig. Die Schüler*innen sind gezwungen weiterhin ihre Stimme auf Papier abgeben, was sowohl umweltschädlich als auch zeitintensiv ist, da die Wahlresultate manuell ausgewertet werden müssen.
