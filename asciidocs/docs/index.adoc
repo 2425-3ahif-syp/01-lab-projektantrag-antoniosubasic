@@ -1,4 +1,5 @@
 = Projektantrag
+Antonio Subašić | {docdate}
 ifndef::imagesdir[:imagesdir: images]
 
 == Wahlprogramm Plattform
